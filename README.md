@@ -11,10 +11,5 @@ Ensuring security in communication systems is challenging, especially in wireles
 ![image](https://github.com/user-attachments/assets/d5bbaaf5-2e1b-4d0d-b049-b8835c8be522)
 ![image](https://github.com/user-attachments/assets/1525122e-e6a9-4094-9d16-0170aa5766ef)
 ![image](https://github.com/user-attachments/assets/f45c9e8f-f022-41b5-8fec-b70db1550af0)
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/53434998-7b76-414a-8164-0d5f80975fc4)
+![image](https://github.com/user-attachments/assets/2c51199e-05e2-470f-b034-13e41ddd4ebd)
