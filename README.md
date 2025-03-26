@@ -1,4 +1,4 @@
-# Identification_of_Malicious_Behavior_in_UAVs_for_FANETs
+# Identification of Malicious Behavior in UAVs for FANETs
 ## This research work was presented at the International Conference ICCRET 2023 at Brainware University. Three of us worked on this research.
 Ensuring security in communication systems is challenging, especially in wireless environments like Flying Ad Hoc Networks (FANETs), which use energy-constrained Unmanned Aerial Vehicles (UAVs). Malicious UAVs often result from misbehavior in physical characteristics, communication channels, or network interfaces. Identifying such UAVs is crucial for secure base station communication. Our proposed model presents an efficient algorithm to detect misbehaving vehicles while considering low energy, transmission delay, and packet delay.
 
